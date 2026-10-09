@@ -2,24 +2,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there%2C+I'm+Ishraq+Rafi+%F0%9F%91%8B;Software+Developer+%7C+Digital+Creator" alt="Typing SVG" />
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/ishraqrafi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/ishraq-rafi-79539a21a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/IshraqRafi/ishraq-portfolio"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/IshraqRafi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
----
-### 🧑‍💻 About Me
-```yaml
-name: Ishraq Rafi
-location: Dhaka, Bangladesh
-education: CSE Undergrad @ CSTU
-roles:
-  - Software Developer
-  - Digital Creator
-  - Founder @ WARA Graphics Studio
-currently_building: WARA Mobile App & WARA GFX Platform
-```
----
-### 🛠️ Tech Stack
+<br/>
+## 🧑‍💻 About Me
+> 🎓 **CSE Undergrad** @ CSTU — Dhaka, Bangladesh
+>
+> 💼 **Software Developer** · **Digital Creator** · **Founder @ WARA Graphics Studio**
+>
+> 🔭 Currently building **WARA Mobile App** & **WARA GFX Platform**
+<br/>
+## 🛠️ Tech Stack
 <p align="center">
   <strong>Languages</strong>
   <br/><br/>
@@ -34,3 +29,6 @@ currently_building: WARA Mobile App & WARA GFX Platform
   <strong>Frameworks & Tools</strong>
   <br/><br/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
